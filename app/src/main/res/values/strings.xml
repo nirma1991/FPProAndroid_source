@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Fatigue Predictor</string>
+    <string name="login_text">FreeTrial Mode Subscription Required to Login </string>
+    <string name="update_text">Update Subscription Settings</string>
+    <string name="subs_heading">Fatigue Predictor Pro</string>
+    <string name="subs_text">Follow this guide to buy subscription to use Fatigue Predictor Pro(for multiple users).
+                            Enter your adminstrator Email Address.
+                            Existing Subscription Holders:enter also your password.
+                            Click Check Administrator.
+    </string>
+    <string name="Administrator">Administrator</string>
+    <string name="Organisation">Organisation</string>
+    <string name="User_Subscription">User Subscription</string>
+    <string name="Stone_Productions">Stone Production</string>
+    <string name="Enter_user_code">To change user enter appropriate user code</string>
+    <string name="Select_date">To archieve duty period select date within period</string>
+    <string name="Select_date_period"># days in period :</string>
+    <string name="Last_Period">Last Date:</string>
+    <string name="IFLS_display_options">IFLS Display Options</string>
+    <string name="Lables_with_dates">Lables with dates </string>
+    <string name="row_per_day">1 Row Per Day</string>
+    <string name="IFLS_color_range">IFLS Color Range</string>
+    <string name="yellow_range">Start Yellow IFLS Range :</string>
+    <string name="orange_range">Start Orange IFLS Range :</string>
+    <string name="red_range">Start Red IFLS Range :</string>
+    <string name="save_rest">Save &amp; Reset</string>
+    <string name="Fatigue_Model_Parameters">Fatigue Model Parameters</string>
+    <string name="Prior_24hrs_Factor">Prior 24hrs Factor</string>
+    <string name="Prior_48hrs_Factor">Prior 48hrs Factor</string>
+    <string name="Max_min_score">Max score-prior 24 hrs score 0 hour</string>
+    <string name="Max_min_score_48hrs">Max score-prior 48 hrs score 0 hour</string>
+    <string name="Awake_48hrs_Factor">Awake > Prior 48 Factor</string>
+    <string name="Awake_Count">Awake Count Reset</string>
+    <string name="Fatiguing_Activity">Fatiguing Activity</string>
+    <string name="Duty_Time_Parameters">Duty Time Parameters</string>
+    <string name="Max_Duty_Time_Day">Max Duty Time Day: </string>
+    <string name="Max_Duty_Time_Night">Max Duty Time Night: </string>
+    <string name="Time_Night">Night Time = </string>
+    <string name="Night_Time">between</string>
+    <string name="Average_Day_Night">Average D&amp;N Limits</string>
+    <string name="Mandatory_rest_hours">Mandatory Rest = Duty Hours</string>
+    <string name="Duty_Time_Count">Duty Time Count Reset after 4 hours</string>
+    <string name="Rest_Duty">Rest before Reset = Duty</string>
+    <string name="Rythm_Correction">Outside Circadium Rythm Correction</string>
+    <string name="Apply">Apply</string>
+    <string name="Outside_cr_factor">Outside C.R Factor</string>
+    <string name="sleep_CR_sleep_time">Sleep in C.R if at sleep on same time</string>
+    <string name="Natural_days">3 times of 4 prior natural days</string>
+    <string name="Max_min_score_limits"> &lt;  ~   2   ~   3   ~   4   ~   &gt;  5 </string>
+    <string name="Max_min_score_limits_range"> 16.0  ~   12.0   ~   8.0   ~   4.0   ~   0 </string>
+    <string name="Awake_Prior"> Awake > Prior factor : 1.0 </string>
+    <string name="Awake_Prior_Count"> After 2.0 hours of sleep </string>
+    <string name="Fatiguing_Value"> = 1.5 hours Awake</string>
+    <string name="Circadium_rythm_correction">Outside Circadium Rythm Correction</string>
+</resources>

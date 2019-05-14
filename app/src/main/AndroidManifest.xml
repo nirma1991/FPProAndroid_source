@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ibt.nirmal.fpproandroid_source">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/fp_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/fp_logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".activities.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activities.Update_scr_activity"></activity>
+        <activity android:name=".activities.subscription_activity"></activity>
+        <activity android:name=".activities.admin_scr_activity"></activity>
+        <activity android:name=".activities.ifls_activity"></activity>
+        <activity android:name=".activities.info_activity"></activity>
+        <activity android:name=".activities.ifls_display_activity"></activity>
+        <activity android:name=".activities.ifls_params_settings"></activity>
+    </application>
+
+</manifest>
